@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution 
+public class gameOfLife 
 {
     public static char [][] life = new char[20][20];
     public static void main(String args[] ) throws Exception 
